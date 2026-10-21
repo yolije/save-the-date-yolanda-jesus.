@@ -1,0 +1,8 @@
+PUBLICAR EN GITHUB PAGES
+
+1. Crea un repositorio público en github.com.
+2. Sube los tres archivos index.html, vista-previa.jpg y musica.mp3 a la raíz del repositorio (no subas solo el ZIP).
+3. Settings > Pages > Deploy from a branch > main > / (root) > Save.
+4. Comparte la dirección https://TU-USUARIO.github.io/NOMBRE-REPOSITORIO/
+
+NOTA SOBRE WHATSAPP: WhatsApp suele necesitar una URL absoluta HTTPS en og:image. Si no aparece la imagen previa, cambia content="vista-previa.jpg" de og:image en index.html por content="https://TU-USUARIO.github.io/NOMBRE-REPOSITORIO/vista-previa.jpg". La vista previa también depende de la caché de WhatsApp.
